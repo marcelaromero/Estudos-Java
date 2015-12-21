@@ -24,9 +24,11 @@ public class ContaCorrenteSobrecarga {
     }
 
     void imprimirAtributos(char b, int a) {System.out.println("metodo que da o erro");}
-    public static void main (String[] args) {
 
+    public static void main (String[] args) {
         ContaCorrenteSobrecarga marcela = new ContaCorrenteSobrecarga();
         marcela.imprimirAtributos('a', 2);
+
+        //marcela.imprimirAtributos(2, 'a');
     }
 }

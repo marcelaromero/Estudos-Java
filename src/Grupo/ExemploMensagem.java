@@ -7,7 +7,7 @@ public class ExemploMensagem {
 
         ContaCorrente marcela = new ContaCorrente();
         marcela.efetuarDeposito(1000);
-        marcela.efetuarSaque(150.89);
+        marcela.efetuarSaque(150);
         marcela.imprimaSaldo();
 
     }
