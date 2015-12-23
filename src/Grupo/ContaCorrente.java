@@ -7,6 +7,7 @@ public class ContaCorrente {
     String nome;
     static double cpmf; // atributo estatico
 
+    // ----------------------- METODOS -------------------------------- //
 
     public String getNome() {return this.nome;}
     public int getAgencia() { return this.agencia;}
@@ -22,7 +23,9 @@ public class ContaCorrente {
     public void setSaldo(double saldo) { this.saldo = saldo;}
 
 
-    void efetuarDeposito (double valor) { this.saldo = this.saldo + valor;} //metodo
+    void efetuarDeposito (double valor) {
+        this.saldo = this.saldo + valor;
+    } //metodo
     void efetuarSaque(double valor) {this.saldo = this.saldo - valor;} // metodo
     void imprimaSaldo() { System.out.println(this.saldo);} // metodo
 
