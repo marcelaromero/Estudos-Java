@@ -1,4 +1,4 @@
-package Grupo;
+package Grupo.Apolice;
 
 /**
  * Created by marcela on 20/01/16.

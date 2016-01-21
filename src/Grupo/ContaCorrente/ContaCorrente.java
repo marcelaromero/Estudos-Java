@@ -1,4 +1,4 @@
-package Grupo;
+package Grupo.ContaCorrente;
 
 public class ContaCorrente {
     int conta;
