@@ -1,4 +1,4 @@
-package Grupo.Apolice;
+package Grupo;
 
 import com.sun.org.apache.xalan.internal.xsltc.dom.SimpleResultTreeImpl;
 

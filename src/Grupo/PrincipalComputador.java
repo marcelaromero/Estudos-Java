@@ -1,8 +1,5 @@
-package Grupo.Computador;
+package Grupo;
 
-/**
- * Created by marcela on 20/01/16.
- */
 public class PrincipalComputador {
     public static void main(String[] args) {
         Computador novoObj = new Computador();

@@ -1,8 +1,5 @@
-package Grupo.Computador;
+package Grupo;
 
-/**
- * Created by marcela on 20/01/16.
- */
 public class Computador {
     String marca;
     String cor;

@@ -1,4 +1,4 @@
-package Grupo.ContaCorrente1;
+package Grupo;
 
 /**
  * Created by marcela on 20/01/16.

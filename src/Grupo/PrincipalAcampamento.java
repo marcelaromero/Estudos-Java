@@ -1,4 +1,4 @@
-package Grupo.Acampamento;
+package Grupo;
 
 /**
  * Created by marcela on 20/01/16.
