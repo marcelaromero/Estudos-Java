@@ -1,9 +1,7 @@
-/**
- * Created by Marcela on 10/12/2015.
- */
+
 public class PesoLua {
     public static void main(String args[]){
-        double pesoTerra, pesoLua;
+        double pesoTerra,pesoLua;
 
         pesoTerra = 165;
 
