@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4690d2e-d024-43c3-acaf-f056b0346f57" name="Default" comment="">
+    <list default="true" id="d4690d2e-d024-43c3-acaf-f056b0346f57" name="Default" comment="teste">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TesteSourceIntellij.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Teste.java" afterPath="$PROJECT_DIR$/src/Teste.java" />
     </list>
     <ignored path="Estudos-Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,8 +26,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Teste.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Teste.java">
+      <file leaf-file-name="TesteSourceIntellij.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TesteSourceIntellij.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -57,6 +57,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Teste.java" />
+        <option value="$PROJECT_DIR$/src/TesteSourceIntellij.java" />
       </list>
     </option>
   </component>
@@ -139,7 +140,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
@@ -428,6 +429,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teste Source IntelliJ" />
+    <MESSAGE value="teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -442,6 +448,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TesteSourceIntellij.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
