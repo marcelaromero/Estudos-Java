@@ -1,6 +1,3 @@
-/**
- * Created by Marcela on 10/12/2015.
- */
 public class Example2 {
     public static void main(String args[]){
         int var1; // esta instruçao declara uma variavel
